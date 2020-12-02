@@ -2,7 +2,7 @@
   "name": "products",
   "version": "1.0.0",
   "description": "",
-  "main": "webpack.config.js",
+  "main": "index.js",
   "dependencies": {
     "faker": "^5.1.0",
     "html-webpack-plugin": "^4.5.0",
